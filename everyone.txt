@@ -1,5 +1,4 @@
-#1: Nickname1
-#2: Kin
+#1: Kin
+#2: Nickname2
 #3: Nickname3
-#4: Nickname4
-#5: Nickname5
+#4: Pun
