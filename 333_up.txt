@@ -1,4 +1,9 @@
 This is my first file.
 tiger
 Tabo
+<<<<<<< HEAD
 Pun
+=======
+Pun
+Kin
+>>>>>>> b4f7b16061672c27383d580eef886ea3a67d37a8
